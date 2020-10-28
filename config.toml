@@ -118,3 +118,8 @@ languagecode = "en"
     description = "Looking for a list of newsletters like this related to Kubernetes? I've got you covered."
     weight = 999
     url = "https://kubenews.io/"
+[[params.sites]]
+    name = "Terraform Weekly"
+    description = "A weeky dose of Terraform news."
+    weight = 104
+    url = "https://weekly.tf/"
